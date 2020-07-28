@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This is website to provide a working demo of the different technologies we have built up to in this class. The main features will be user accounts and balancing the operations of 3 different user levels. (admin-full CRUD access, user-limited CRUD-but including edit/delete of bots, bots-just exist to be edited/deleted by regular users)
 ### Features
-Include Features here
+-Login
+-User edit/delete
+-Message Board
+-Leader Board
+-Optional runtime logging
+
 ### Technologies
-Include Technologies here
+-C#
+-ASP.net
+-Razor
+-Http
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Learning opertunites will be in the form of user auth.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GNgpEeEY/project-board
